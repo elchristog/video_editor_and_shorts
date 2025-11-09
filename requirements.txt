@@ -1,5 +1,6 @@
 google-generativeai
-moviepy==9.5.0
+moviepy
+Pillow
 webvtt-py
 requests
 python-dotenv
